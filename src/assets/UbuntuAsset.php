@@ -3,8 +3,8 @@
 namespace yii2lab\ubuntu_font\assets;
 
 use yii\web\AssetBundle;
-use yii2lab\extension\common\helpers\Helper;
-use yii2lab\extension\yii\helpers\Html;
+use yii2rails\extension\common\helpers\Helper;
+use yii2rails\extension\yii\helpers\Html;
 
 class UbuntuAsset extends AssetBundle
 {
