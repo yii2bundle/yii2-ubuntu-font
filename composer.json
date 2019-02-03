@@ -12,7 +12,9 @@
 	"minimum-stability": "dev",
 	"autoload": {
 		"psr-4": {
-			"yii2lab\\ubuntu_font\\": "src"
+			"yii2lab\\ubuntu_font\\": "src",
+			"yii2bundle\\ubuntu_font\\": "src",
+			"yii2bundle\\ubuntu_font\\tests\\": "tests"
 		}
 	},
 	"require": {
